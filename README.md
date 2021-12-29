@@ -15,7 +15,7 @@ To deploy this project fork the project and download
 
 ## Screenshots
 
-![App Screenshot](https://github.com/techschneiderrr/Random-6-numbers-generator/tree/main/assets#:~:text=Screenshot%202021%2D12%2D29%20at%2011.13.09%20AM.png)
+![App Screenshot](https://github.com/techschneiderrr/Random-6-numbers-generator/blob/main/assets/Screenshot%202021-12-29%20at%2011.13.09%20AM.png?raw=true)
 
 ![App Screenshot](https://github.com/techschneiderrr/Random-6-numbers-generator/blob/main/assets/Screenshot%202021-12-29%20at%2011.13.12%20AM.png)
 
