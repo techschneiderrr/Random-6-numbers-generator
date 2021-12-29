@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <label for="">Random Number</label>
+    <input id="num" type="text">
+    <button id="start" onclick="rand()">Start</button>
+    <button id="stp" onclick="stp()">Stop</button>
+    <button id="reset" onclick="reset()">Reset</button>
+
+</body>
+<script>
+    function rand(){
+        var min = 100000;
+        var max = 900000;
+        var num = Math.floor(Math.random() * min) + max;
+        document.getElementById("num").value = num;
+        console.log(num);
+        document.body.style.backgroundColor = "#"+num;
+    }
+    function reset(){
+        document.getElementById("num").value = "";
+        document.body.style.backgroundColor = "white";
+    }
+    function stp() {
+        document.getElementById("num").value = "";
+    }
+    
+</script>
+</html>
