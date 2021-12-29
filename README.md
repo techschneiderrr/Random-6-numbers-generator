@@ -1,23 +1,25 @@
-# Spotify Clone
+# Random 6 digit number generator
 
-Its a Spotify clone created using SwiftUI.
+Its a javascript based programe that generates a 6 digit numer and takes it as a hexcode to change the color of the backgrounf of the page.
 
 
 
 ## Deployment
 
-To deploy this project run
+To deploy this project fork the project and download
 
 ```bash
-  clone the repository and open in Xcode
+  then simply open the files in a code editor.
 ```
 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/techschneiderrr/Spotify-Clone/blob/main/assets%20for%20repo/Screenshot%202021-12-28%20at%205.39.27%20PM.png)
+![App Screenshot](https://github.com/techschneiderrr/Random-6-numbers-generator/tree/main/assets#:~:text=Screenshot%202021%2D12%2D29%20at%2011.13.09%20AM.png)
 
-![App Screenshot](https://github.com/techschneiderrr/Spotify-Clone/blob/main/assets%20for%20repo/Screenshot%202021-12-28%20at%205.44.16%20PM.png)
+![App Screenshot](https://github.com/techschneiderrr/Random-6-numbers-generator/blob/main/assets/Screenshot%202021-12-29%20at%2011.13.12%20AM.png)
+
+![App Screenshot](https://github.com/techschneiderrr/Random-6-numbers-generator/blob/main/assets/Screenshot%202021-12-29%20at%2011.13.14%20AM.png)
 ## Authors
 
 - [@techschneiderrr](https://github.com/techschneiderrr)
