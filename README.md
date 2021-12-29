@@ -1,7 +1,6 @@
 # Random 6 digit number generator
 
-Its a javascript based programe that generates a 6 digit numer and takes it as a hexcode to change the color of the backgrounf of the page.
-
+Its a javascript based program that generates a 6 digit number and takes it as a hex-code to change the colour of the background of the page.
 
 
 ## Deployment
